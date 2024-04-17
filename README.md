@@ -1,2 +1,3 @@
 # meAs-Demo
-Hii this is my first repository.
+Hii! This is my first Git repository.
+Author - Chandradeo Kumar
